@@ -1,0 +1,11 @@
+{
+	"name": "rbxts-hashlib",
+	"tree": {
+		"$className": "DataModel",
+
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+			"HashLib": {"$path": "out"}
+		}
+	}
+}
