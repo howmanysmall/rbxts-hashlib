@@ -13,8 +13,9 @@
     "url": "git+https://github.com/howmanysmall/rbxts-hashlib.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Egor Skriptunoff",
+  "contributors": ["boatbomber", "HowManySmall"],
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/howmanysmall/rbxts-hashlib/issues"
   },
