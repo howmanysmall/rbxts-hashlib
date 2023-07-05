@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/rbxts-hashlib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Since the other package has incorrect types.",
   "main": "out/init.lua",
   "scripts": {
