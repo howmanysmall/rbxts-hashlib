@@ -1449,8 +1449,8 @@ local sha = {
 	hex_to_bin = hex2bin; -- converts hexadecimal representation to binary string
 	base64_to_bin = base642bin; -- converts base64 representation to binary string
 	bin_to_base64 = bin2base64; -- converts binary string to base64 representation
-	base64_encode = Base64.Encode;
-	base64_decode = Base64.Decode;
+	base64_encode = Base64.encode;
+	base64_decode = Base64.decode;
 }
 
 block_size_for_HMAC = {
